@@ -1,0 +1,38 @@
+.dashboard-drawer {
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.062);
+    width: 300px;
+    height: 100%;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.425);
+    padding-bottom: 300px;
+    .user-info-container {
+        text-align: center;
+        padding: .4rem;
+        background-color: #00000013;
+        img{
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            margin: auto;
+        }
+        
+    }
+
+    .options {
+        margin: 1rem;
+        ul {
+            display: block;
+           margin-bottom: 1rem;
+        }
+
+        li {
+           padding: .2rem 0px;
+           margin: 0px;
+           font-weight: 400;
+           color: #757575;
+        }
+        li:hover{
+            font-weight: 500;
+        }
+    }
+}

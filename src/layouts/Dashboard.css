@@ -1,0 +1,15 @@
+.dashboard{
+    display: flex;
+    gap: 20px;
+    
+}
+.outlet{
+
+    margin: auto;
+}
+
+@media( max-width: 600px){
+    .outlet{
+        display: none;
+    }
+}

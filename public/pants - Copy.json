@@ -1,0 +1,201 @@
+[
+    {
+        "_id": 1111,
+        "title": "Mens Black color Denim Pant by Richman",
+        "gender": "male",
+        "brand": "Richman",
+        "price": 1250,
+        "size": [
+            30,
+            32,
+            34,
+            36,
+            38
+        ],
+        "color": "Black",
+        "description": "Introducing our timeless classic blue denim jeans, designed to complement every wardrobe. Crafted with premium quality denim fabric, these jeans offer durability, comfort, and style all in one package. Whether you're heading out for a casual day with friends or a night on the town, these jeans will elevate your look effortlessly.",
+        "img1": "https://infinitymegamall.com/wp-content/uploads/2023/06/42.jpg",
+        "img2": "",
+        "img3": "",
+        "img4": "",
+        "img5": "",
+        "img6": "",
+        "rating": [
+            {
+                "photoURL": "https://randomuser.me/api/portraits/men/56.jpg",
+                "displayName": "Kevin Ronald",
+                "email": "kevinronald4232@gmail.com",
+                "rating": 4.5,
+                "comment": "I recently ordered  and was pleasantly surprised by the swift delivery. The product arrived earlier than expected, and the quality exceeded my expectations. it is exceptional service and timely delivery have made me a loyal customer. Highly recommended for both product excellence and efficiency!",
+                "recived_img1": ""
+            }
+        ]
+    },
+    {
+        "_id": 1112,
+        "title": "Mens Blue color Denim Pant by Richman",
+        "gender": "male",
+        "brand": "Richman",
+        "price": 1150,
+        "size": [
+            30,
+            32,
+            34,
+            36,
+            38
+        ],
+        "color": "Blue",
+        "description": "Introducing our timeless classic blue denim jeans, designed to complement every wardrobe. Crafted with premium quality denim fabric, these jeans offer durability, comfort, and style all in one package. Whether you're heading out for a casual day with friends or a night on the town, these jeans will elevate your look effortlessly.",
+        "img1": "https://infinitymegamall.com/wp-content/uploads/2023/03/37.jpg",
+        "img2": "",
+        "img3": "",
+        "img4": "",
+        "img5": "",
+        "img6": "",
+        "rating": [
+            {
+                "photoURL": "https://randomuser.me/api/portraits/men/56.jpg",
+                "displayName": "Kevin Ronald",
+                "email": "kevinronald4232@gmail.com",
+                "rating": 4.5,
+                "comment": "I recently ordered  and was pleasantly surprised by the swift delivery. The product arrived earlier than expected, and the quality exceeded my expectations. it is exceptional service and timely delivery have made me a loyal customer. Highly recommended for both product excellence and efficiency!",
+                "recived_img1": ""
+            }
+        ]
+    },
+    {
+        "_id": 1113,
+        "title": "Mens Black color Denim Pant by Richman",
+        "gender": "male",
+        "brand": "Richman",
+        "price": 750,
+        "size": [
+            30,
+            32,
+            34,
+            36,
+            38
+        ],
+        "color": "Black",
+        "description": "Introducing our timeless classic blue denim jeans, designed to complement every wardrobe. Crafted with premium quality denim fabric, these jeans offer durability, comfort, and style all in one package. Whether you're heading out for a casual day with friends or a night on the town, these jeans will elevate your look effortlessly.",
+        "img1": "https://infinitymegamall.com/wp-content/uploads/2023/04/Richman-done-3.jpg",
+        "img2": "",
+        "img3": "",
+        "img4": "",
+        "img5": "",
+        "img6": "",
+        "rating": [
+            {
+                "photoURL": "https://randomuser.me/api/portraits/men/56.jpg",
+                "displayName": "Kevin Ronald",
+                "email": "kevinronald4232@gmail.com",
+                "rating": 4.5,
+                "comment": "I recently ordered  and was pleasantly surprised by the swift delivery. The product arrived earlier than expected, and the quality exceeded my expectations. it is exceptional service and timely delivery have made me a loyal customer. Highly recommended for both product excellence and efficiency!",
+                "recived_img1": ""
+            }
+        ]
+    },
+    {
+        "_id": 1114,
+        "title": "Mens Black color Denim Pant by Richman",
+        "gender": "male",
+        "brand": "Richman",
+        "price": 850,
+        "size": [
+            30,
+            32,
+            34,
+            36,
+            38
+        ],
+        "color": "Black",
+        "description": "Introducing our timeless classic blue denim jeans, designed to complement every wardrobe. Crafted with premium quality denim fabric, these jeans offer durability, comfort, and style all in one package. Whether you're heading out for a casual day with friends or a night on the town, these jeans will elevate your look effortlessly.",
+        "img1": "https://infinitymegamall.com/wp-content/uploads/2023/06/42.jpg",
+        "img2": "",
+        "img3": "",
+        "img4": "",
+        "img5": "",
+        "img6": "",
+        "rating": [
+            {
+                "photoURL": "https://randomuser.me/api/portraits/men/56.jpg",
+                "displayName": "Kevin Ronald",
+                "email": "kevinronald4232@gmail.com",
+                "rating": 4.5,
+                "comment": "I recently ordered  and was pleasantly surprised by the swift delivery. The product arrived earlier than expected, and the quality exceeded my expectations. it is exceptional service and timely delivery have made me a loyal customer. Highly recommended for both product excellence and efficiency!",
+                "recived_img1": ""
+            }
+        ]
+    },
+    {
+        "_id": 1115,
+        "title": "MEN'S LOOSE FIT DENIM TROUSER",
+        "gender": "male",
+        "brand": "Sailor",
+        "price": 1250,
+        "size": [
+            30,
+            32,
+            34,
+            36,
+            38
+        ],
+        "color": "Gray",
+        "description": "Introducing our timeless classic blue denim jeans, designed to complement every wardrobe. Crafted with premium quality denim fabric, these jeans offer durability, comfort, and style all in one package. Whether you're heading out for a casual day with friends or a night on the town, these jeans will elevate your look effortlessly.",
+        "img1": "https://sailors3bucket1.s3.ap-southeast-1.amazonaws.com/uploads/all/2ocmDME69RCrQSwkXDN6gVVjAB7jGeqWxPGpJJ5o.jpg",
+        "img2": "https://sailors3bucket1.s3.ap-southeast-1.amazonaws.com/uploads/all/mYaK0AcHQfFedNWx5OAvgVGRLtznyZo9GHqxhwE7.jpg",
+        "img3": "https://sailors3bucket1.s3.ap-southeast-1.amazonaws.com/uploads/all/QN1ggrJb2BmJB8YRp4OsgtWBbMLdNgpux7a5h7Nt.jpg",
+        "img4": "",
+        "img5": "",
+        "img6": "",
+        "rating": [
+            {
+                "photoURL": "https://randomuser.me/api/portraits/men/56.jpg",
+                "displayName": "Kevin Ronald",
+                "email": "kevinronald4232@gmail.com",
+                "rating": 4.5,
+                "comment": "I recently ordered  and was pleasantly surprised by the swift delivery. The product arrived earlier than expected, and the quality exceeded my expectations. it is exceptional service and timely delivery have made me a loyal customer. Highly recommended for both product excellence and efficiency!",
+                "recived_img1": ""
+            }
+        ]
+    },
+    {
+        "_id": 1116,
+        "title": "Mens light Blue color Denim Pant by Sailor",
+        "gender": "male",
+        "brand": "Sailor",
+        "price": 1250,
+        "size": [
+            30,
+            32,
+            34,
+            36,
+            38
+        ],
+        "color": "Navy Blue",
+        "description": "Introducing our timeless classic blue denim jeans, designed to complement every wardrobe. Crafted with premium quality denim fabric, these jeans offer durability, comfort, and style all in one package. Whether you're heading out for a casual day with friends or a night on the town, these jeans will elevate your look effortlessly.",
+        "product_img": [
+            
+        ]
+        "img1": "https://sailors3bucket1.s3.ap-southeast-1.amazonaws.com/uploads/all/mMwtuGn15tKbMMibjZcKzjAtPAwktzY8GlGiVfe7.jpg",
+        "img2": "https://sailors3bucket1.s3.ap-southeast-1.amazonaws.com/uploads/all/1kbqJTQ1tDuX49GGbp83nbdpPz3WpZTVZFzbl2kd.jpg",
+        "img3": "https://sailors3bucket1.s3.ap-southeast-1.amazonaws.com/uploads/all/encgSPpAB9nCva9L5UHnbgnAXF9RxJl1sXTBF2HW.jpg",
+        "img4": "",
+        "img5": "",
+        "img6": [
+            "https://sailors3bucket1.s3.ap-southeast-1.amazonaws.com/uploads/all/encgSPpAB9nCva9L5UHnbgnAXF9RxJl1sXTBF2HW.jpg",
+            "https://sailors3bucket1.s3.ap-southeast-1.amazonaws.com/uploads/all/encgSPpAB9nCva9L5UHnbgnAXF9RxJl1sXTBF2HW.jpg",
+            "https://sailors3bucket1.s3.ap-southeast-1.amazonaws.com/uploads/all/encgSPpAB9nCva9L5UHnbgnAXF9RxJl1sXTBF2HW.jpg"
+        ],
+        "rating": [
+            {
+                "photoURL": "https://randomuser.me/api/portraits/men/56.jpg",
+                "displayName": "Kevin Ronald",
+                "email": "kevinronald4232@gmail.com",
+                "rating": 4.5,
+                "comment": "I recently ordered  and was pleasantly surprised by the swift delivery. The product arrived earlier than expected, and the quality exceeded my expectations. it is exceptional service and timely delivery have made me a loyal customer. Highly recommended for both product excellence and efficiency!",
+                "recived_img1": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "_id": 32122,
+        "title": "Graphic Printed Drop Shoulder Sleeves Pure Cotton Oversized T-shirt",
+        "gender": "male",
+        "brand": "Stormborn",
+        "color": "",
+        "price": 450,      
+        "product_img": [
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/25072178/2023/9/20/c097aded-8dfb-497d-87c0-e0ef5ec5c8761695179114326StormbornMenBrownPrintedPoloCollarPocketsT-shirt1.jpg0",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/25072178/2023/9/20/67b91a61-978b-4342-aba4-0e6498f1d83b1695179114307StormbornMenBrownPrintedPoloCollarPocketsT-shirt2.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/25072178/2023/9/20/ab38f009-1530-4eab-b76c-273ee950d1461695179114272StormbornMenBrownPrintedPoloCollarPocketsT-shirt3.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/25072178/2023/9/20/70f306a6-3fdd-4e99-bd08-10d1767afcae1695179114363StormbornMenBrownPrintedPoloCollarPocketsT-shirt4.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/25072178/2023/9/20/c8cacc44-0743-43df-8405-20490f2863e31695179114288StormbornMenBrownPrintedPoloCollarPocketsT-shirt5.jpg",
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/25072178/2023/9/20/bda9f2be-2a7d-477e-9e08-8956caf8fc051695179114345StormbornMenBrownPrintedPoloCollarPocketsT-shirt6.jpg"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": [
+            "Introducing our latest addition to your wardrobe essentials: the epitome of style, comfort, and expression - our signature T-shirt. Crafted with meticulous attention to detail and designed to elevate your everyday attire, our T-shirt seamlessly combines versatility with fashion-forward flair.",
+            "Crafted from the finest quality cotton blend, our T-shirt boasts unparalleled softness and breathability, ensuring you stay cool and comfortable throughout the day. The fabric's lightweight feel drapes effortlessly against your body, offering a flattering silhouette for both men and women.",
+            "Our T-shirt features a classic crew neckline, providing a timeless appeal that effortlessly transitions from casual outings to laid-back evenings. The reinforced stitching along the seams guarantees durability, promising to withstand the test of time and retain its shape wear after wear.",
+            "Available in a spectrum of vibrant hues and captivating prints, our T-shirt allows you to make a statement that's uniquely yours. Whether you prefer bold graphics, subtle patterns, or minimalist designs, there's a style to suit every personality and occasion.",
+            "Versatility is key, and our T-shirt effortlessly complements any ensemble. Pair it with your favorite jeans for a casual-cool vibe, layer it under a blazer for a touch of sophistication, or team it with shorts for an easygoing summer look. The possibilities are endless, allowing you to express your individuality with ease.",
+            "Beyond its impeccable style, our T-shirts is also committed to sustainability. Crafted with eco-friendly materials and manufactured under ethical practices, you can feel good knowing that your fashion choices are making a positive impact on the planet.",
+            "Join the movement and experience the perfect fusion of style, comfort, and conscience with our iconic T-shirt. Elevate your wardrobe staples and make every day a fashion statement with the epitome of casual luxury."
+        ],
+        "rating": [
+            {
+                "photoURL": "https://randomuser.me/api/portraits/men/56.jpg",
+                "displayName": "Kevin Ronald",
+                "email": "kevinronald4232@gmail.com",
+                "rating": 4.5,
+                "comment": "I recently ordered  and was pleasantly surprised by the swift delivery. The product arrived earlier than expected, and the quality exceeded my expectations. it is exceptional service and timely delivery have made me a loyal customer. Highly recommended for both product excellence and efficiency!",
+                "review_img": ""
+            }
+        ]
+    }
+]

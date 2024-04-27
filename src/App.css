@@ -1,0 +1,41 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  padding: 0px;
+  margin: 0px;
+  font-family: "Poppins", sans-serif;  max-width: 3000px;
+  margin: auto;
+}
+.navlink:hover{
+    /* font-weight: 600; */
+}
+ul{
+  list-style: none;
+}
+
+li{
+  text-decoration: none;
+  font-weight: 500;
+}
+.m-auto{
+  margin: auto;
+}
+
+.flex{
+  display: flex;
+}
+.items-center{
+  align-items: center;
+}
+.justify-center{
+  justify-items: center;
+}
+.text-center{
+  text-align: center;
+}
+
+a.active{
+  color: bl;
+}

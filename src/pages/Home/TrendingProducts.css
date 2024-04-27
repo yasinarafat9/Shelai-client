@@ -1,0 +1,61 @@
+.trending-products-container {
+    .sm{
+        display: none;
+    }
+    .lg{
+        display: block;
+    }
+    .title {
+        text-align: center;
+        margin: 3rem;
+        margin-bottom: 4rem;
+        font-weight: 500;
+    }
+
+    .swiper-container {
+        .trending-card{
+            img {
+                height: 400px;
+                width: 300px;
+                object-fit: cover;
+                border-radius: 10px;
+            }}&:hover{
+                transform: scale(1.02);
+                transition: 0.3s ease-in-out;
+            }
+        
+    }
+
+}
+
+
+
+@media (max-width: 600px){
+    .trending-products-container {
+        .lg{
+            display: none;
+        }
+        .sm{
+            display: block;
+        }
+        .title {
+            text-align: center;
+            font-size: 1.5rem;
+        }
+    
+        .swiper-container {
+            .trending-card {
+                img {
+                    height: 400px;
+                    width: 100%;
+                    object-fit: cover;
+                    border-radius: 10px;
+                }
+            }&:hover{
+                transform: scale(1.02);
+                transition: 0.3s ease-in-out;
+            }
+        }
+    
+    }
+}
