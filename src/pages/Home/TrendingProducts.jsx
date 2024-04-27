@@ -55,11 +55,11 @@ const TrendingProducts = () => {
                     <Link className='navlink' to="/">
                         <div className='trending-card'>
                             <img src="https://i.pinimg.com/736x/b0/b4/7f/b0b47f0513c2dd257d1dbbacb5a262d0.jpg" alt="" />
-                            <div className='text-container'>
+                            {/* <div className='text-container'>
                                 <h4>Panjabi Green with stripes</h4>
                                 <p>Brand Name: Yellow</p>
                                 <h4>Price: 1190 BDT</h4>
-                            </div>
+                            </div> */}
                         </div>
                     </Link>
                 </SwiperSlide>
