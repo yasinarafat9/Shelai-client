@@ -574,6 +574,7 @@ const Navbar = () => {
                     <Link to="/" className='navlink'><h2 className='company-name'>Shelai</h2></Link>
                     <div className='nav-icons'>
                         <button><NavLink to="/login" className="navlink">Login</NavLink></button>
+                        <NavLink className="navlink" to="dashboard"> <FaBell className='icon'></FaBell> </NavLink>
                         <NavLink className="navlink" to="/"> <FaRegUser></FaRegUser> </NavLink>
                         <NavLink className="navlink wishlist-hover" to="/"> <FaRegHeart></FaRegHeart><WishlistHoverOpen /></NavLink>
                         <NavLink className="navlink bag-hover" to="/"> <BsBag></BsBag><BagHoverOpen /></NavLink>
